@@ -2,12 +2,13 @@ This is the data for my blog
 
 It is automatically transformed by Jekyll into a static site
 
-License
+## License
 
-The following directories and their contents are Copyright Shuting Guo. You may not reuse anything therein without my permission:
+The following directories and their contents are bingbing1263.
+You may not reuse anything therein without my permission:
 
-_posts/
+* \_posts/
+* images/
 
-images/
-
-All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please.
+All other directories and files are MIT Licensed. Feel free to use the HTML and
+CSS as you please. 
