@@ -1,11 +1,6 @@
-# This is the data for my blog
+## This is the data for my blog
 
-It is automatically transformed by Jekyll
-into a static site
-
-# This is the data for my blog
-
-It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll)
+It is automatically transformed by [Jekyll](http://vszhub.github.io/not-pure-poole)
 into a static site
 
 ## License
